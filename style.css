@@ -1,0 +1,21 @@
+h1{
+    text-align:center;
+    font-size:xx-large;
+    color: darkblue;
+    
+
+}
+img{
+    text-align:right;
+    height: 100px;
+    width:100px;
+    float:right;
+}
+h2{
+    text-align:left;
+    color:blue;
+    font-size:x-large;
+}
+body{
+    background-color: darkgray;
+}
